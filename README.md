@@ -39,7 +39,6 @@ s,r9BzN94e has an estimated 65.388548 bits of entropy.
 &&&&&&&& has an estimated 29.448736 bits of entropy.
 &&&&&&&&& has an estimated 33.655699 bits of entropy.
 &&&&&&&&&& has an estimated 37.862661 bits of entropy.
-abdominohysterectomy has a score of 79.947183
 
 real	0m0.623s
 user	0m0.227s
